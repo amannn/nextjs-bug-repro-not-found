@@ -1,3 +1,5 @@
+export const dynamic = 'error';
+
 export default function Home() {
   return (
     <main>
